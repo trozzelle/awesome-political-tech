@@ -12,6 +12,10 @@ There are some monolithic platforms that have grown to fill these needs (and som
 
 This is a (growing) curated collection of tools and resources that I use, or have at some point found helpful, to solve the "mechanical", nitty-gritty problems of running a political campaign.
 
+
+
+
+
 ## Advertising
 
 - [Facebook Ad Library](https://www.facebook.com/ads/library/) - Facebook's repository of all ads. Great to use as a resource for inspiration and to monitor opposition messaging/spend.
@@ -20,11 +24,14 @@ This is a (growing) curated collection of tools and resources that I use, or hav
 
 - [Google Advertising Transparency Report](https://adstransparency.google.com/) - Google's repository of all political advertising published through the Google Ad Network, including YouTube ads.
 
-- 
+- [Snapchat Political Ads Library](https://snap.com/en-US/political-ads) - Snapchat's repository of political ads. Downloads as a CSV with links to the creative.
+
+
 
 ## CRM/DRM
 
 - [CiviCRM](https://civicrm.org/) - Self-hosted, open-source CRM for donor and volunteer management. Alternative (with a bunch of elbow grease) to NGP. Large ecosystem of extensions and mature, well-documented REST api. Native integration with Wordpress, Drupal, and Joomla.
+- [Action Network](https://actionnetwork.org/) - Low-cost CRM/DRM platform with organizing tools and bulk email/SMS. A good subset of NGP's tools at a fraction of the cost. Priced by emails/month.
 
 
 
@@ -35,6 +42,10 @@ This is a (growing) curated collection of tools and resources that I use, or hav
 - [Stripo.email](https://stripo.email/) - Hybrid WISYWIG/code editor for email production. Lots of quality-of-life features, like device preview, asset hosting, and export to many different ESPs. The editor itself feels kind of clunky/limited but code can be edited simultaneously.
 
 - [Can I Email...?](https://www.caniemail.com/) - HTML/CSS feature reference for compatability and client support. Important to know that 60% of your recipients won't see your slick linear-gradient header, so be sure to set a fallback. 
+
+- [Archive of Political Emails](https://politicalemails.org/) - Email archive that collects email from candidates, elected officials, PACs, NGOs, etc.
+
+- [SimilarMail](https://www.similarmail.com/) - General email archive with a lot of political content.
 
 ## Security
 
