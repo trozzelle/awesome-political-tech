@@ -18,14 +18,23 @@ This is a (growing) curated collection of tools and resources that I use, or hav
 
 ## Advertising
 
-- [Facebook Ad Library](https://www.facebook.com/ads/library/) - Facebook's repository of all ads. Great to use as a resource for inspiration and to monitor opposition messaging/spend.
+### Respositories
 
-- [Facebook Political Ads Collector](https://github.com/CybersecurityForDemocracy/FacebookApiPolAdsCollector) - Python collector for the FB Ad Library API
+- [Facebook Ad Library](https://www.facebook.com/ads/library/) - Facebook's repository of all ads. Great to use as a resource for inspiration and to monitor opposition messaging/spend.
 
 - [Google Advertising Transparency Report](https://adstransparency.google.com/) - Google's repository of all political advertising published through the Google Ad Network, including YouTube ads.
 
 - [Snapchat Political Ads Library](https://snap.com/en-US/political-ads) - Snapchat's repository of political ads. Downloads as a CSV with links to the creative.
 
+### Tools
+
+- [Facebook Political Ads Collector](https://github.com/CybersecurityForDemocracy/FacebookApiPolAdsCollector) - Python collector for the FB Ad Library API
+
+- [Bannerify for Figma](https://www.figma.com/community/plugin/796124491692147799) - Generates HTML5 banner packages from Figma designs. Includes basic animation, hover states, lottie files, generating backup images, generating GIF/video versions, and injecting clickTags for major DSPs. 
+
+- [Creatopy](https://www.creatopy.com/) - Canva but for banner ads. Has a large repository of templates and includes some useful widgets such as audio, YouTube embeds, and countdowns. 
+
+- [HTML5toGIF](https://html5animationtogif.com/) - Web service to convert HTML5, SVG, and Lottie to GIF/Video. Absent generating video locally from FFmpeg, this tool produces the highest quality exports of all the tools I've used. Excellent for converting HTML5 to video for Facebook ads.
 
 
 ## CRM/DRM
