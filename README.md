@@ -13,12 +13,20 @@ There are some monolithic platforms that have grown to fill these needs (and som
 This is a (growing) curated collection of tools and resources that I use, or have at some point found helpful, to solve the "mechanical", nitty-gritty problems of running a political campaign.
 
 
+## Political Tech
 
+### Website Builders
+
+- [RUN!](https://www.designedtorun.com/) - Candidate website builder for Dems and Progressive candidates that offers sliding scale pricing.
+
+### Texting
+
+- [Strive Messaging](https://www.strivemessaging.org/) - Broadcast SMS platform with robust automation, semantic interpretation, and sentiment analysis tools.
 
 
 ## Advertising
 
-### Respositories
+### Ad Respositories
 
 - [Facebook Ad Library](https://www.facebook.com/ads/library/) - Facebook's repository of all ads. Great to use as a resource for inspiration and to monitor opposition messaging/spend.
 
