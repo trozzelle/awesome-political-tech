@@ -1,5 +1,9 @@
-# Awesome Political Tech
-
+<h1 align="center">
+Awesome Political Tech 📢
+</h1>
+<p align="center" style="text-align: center;">
+<a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+</p>
 Effective campaigning in 2024 means bringing together a wide array of tools to bridge the physical reality of running a field program and digital demands of brand awareness, fundraising, and mass communication, often wrangling data that is both overwhelming and quickly-outdated. Political campaigns are almost always understaffed, underfunded, and out of time.
 
 This is a (growing) curated collection of high-quality platforms, tools and resources for running political or advocacy campaigns.
