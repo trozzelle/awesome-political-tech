@@ -6,49 +6,7 @@ Effective campaigning in 2024 means bringing together a wide array of tools to b
 
 This is a (growing) curated collection of high-quality platforms, tools and resources for running political or advocacy campaigns.
 
-## Platforms
-
-### Website Builders
-
-- [RUN!](https://www.designedtorun.com/) - Candidate website builder for Dems and Progressive candidates that offers sliding scale pricing.
-
-### Texting
-
-#### Broadcast SMS
-
-- [Mobile Commons](https://uplandsoftware.com/mobile-commons/) - Broadcast SMS tool used by many non-profits, that has interesting features like polling locators and surveys.
-
-- [Strive Messaging](https://www.strivemessaging.org/) - Broadcast SMS platform with automation, semantic interpretation, and sentiment analysis tools.
-
-- [DaisyChain](https://www.daisychain.app/) - Broadcast texting tool with powerful automation features and integrations with many major advocacy tools.
-
-#### Peer-to-Peer SMS
-
-- [Hustle](https://hustle.com/) - The original P2P texting tool. Also offers broadcast texting, video messaging, and a dialer product. Integrated into the VAN.
-
-- [RumbleUp](https://rumbleup.com/pricing) - P2P texting platform with strong list cleaning features.
-
-- [ThruText](https://www.getthru.io/p2p-thrutext) - Hustle's little brother. No minimums or contracts, credits are bought in blocks.
-
-- [OutreachCircle](outreachcircle.com) - Relational organizing platform with inexpensive P2P SMS. Offers NGPVAN integration.
-
-- [Civitech TextOut](https://civitech.io/products/textout/) - Texting platform that offers both managed and unmanaged texting.
-
-### Call Tools/Auto Dialers
-
-- [CallHub](https://callhub.io/) Powerful calling platform with auto/predictive dialers, patch through calling, and live call monitoring. Also offers broadcast/p2p texting and email tools.
-
-- [PhoneBurner](https://www.phoneburner.com/) Another powerful calling platform with auto/predictive dialers, automation tools, and many integrations.
-
-- [ThruTalk](https://www.getthru.io/thrutalk-dialer) Fast caller that offers strong integration with ThruTalk.
-
-- [callTime](https://www.calltime.ai/) - Fundraising-focused call tool with ActBlue and NGP integration. Enriches donor data and uses machine learning to generate donor scores and ask amounts.
-
-### Canvassing
-
-- [Ecanvasser](https://www.ecanvasser.com/) Streamlined tool for turf cutting, walk list generation, and field reporting. Has native integrations with NationBuilder, CallHub, Salesforce, and L2 Data.
-
-- [Trailblazer](https://www.trailblz.com/political-campaign-software) Platform with canvassing, mailing, and phone banking tools. Offers mapping and turf cutting with geocoding for an additional fee.
+# Platforms
 
 ## Advertising
 
@@ -68,23 +26,21 @@ This is a (growing) curated collection of high-quality platforms, tools and reso
 
 - [Facebook Political Ads Collector](https://github.com/CybersecurityForDemocracy/FacebookApiPolAdsCollector) - Python collector for the FB Ad Library API
 
-### Media Creation
+### Call Tools/Auto Dialers
 
-- [Bannerify for Figma](https://www.figma.com/community/plugin/796124491692147799) - Generates HTML5 banner packages from Figma designs. Includes basic animation, hover states, lottie files, generating backup images, generating GIF/video versions, and injecting clickTags for major DSPs.
+- [CallHub](https://callhub.io/) Powerful calling platform with auto/predictive dialers, patch through calling, and live call monitoring. Also offers broadcast/p2p texting and email tools.
 
-- [Creatopy](https://www.creatopy.com/) - Canva but for banner ads. Has a large repository of templates and includes some useful widgets such as audio, YouTube embeds, and countdowns.
+- [PhoneBurner](https://www.phoneburner.com/) Another powerful calling platform with auto/predictive dialers, automation tools, and many integrations.
 
-- [HTML5toGIF](https://html5animationtogif.com/) - Web service to convert HTML5, SVG, and Lottie to GIF/Video. Absent generating video locally from FFmpeg, this tool produces the highest quality exports of all the tools I've used. Excellent for converting HTML5 to video for Facebook ads.
+- [ThruTalk](https://www.getthru.io/thrutalk-dialer) Fast caller that offers strong integration with ThruTalk.
 
-## Media
+- [callTime](https://www.calltime.ai/) - Fundraising-focused call tool with ActBlue and NGP integration. Enriches donor data and uses machine learning to generate donor scores and ask amounts.
 
-### Press and PR
+### Canvassing
 
-- [Cision](https://www.cision.com/) - Media monitoring and relationship management (MRM) platform. Maintains database of traditional media and social influencer contacts and includes integrated pitching tools.
+- [Ecanvasser](https://www.ecanvasser.com/) Streamlined tool for turf cutting, walk list generation, and field reporting. Has native integrations with NationBuilder, CallHub, Salesforce, and L2 Data.
 
-### Social Media
-
-- [Gather Voices](https://fundraiseup.com/) - Supporter testimonial platform that integrates recording, editing, and distribution.
+- [Trailblazer](https://www.trailblz.com/political-campaign-software) Platform with canvassing, mailing, and phone banking tools. Offers mapping and turf cutting with geocoding for an additional fee.
 
 ## CRM/DRM
 
@@ -126,19 +82,27 @@ This is a (growing) curated collection of high-quality platforms, tools and reso
 
 - [Stripo.email](https://stripo.email/) - Hybrid WISYWIG/code editor for email production. Lots of quality-of-life features, like device preview, asset hosting, and export to many different ESPs. The editor itself feels kind of clunky/limited but code can be edited simultaneously.
 
-## Security
-
-- [Defending Digital Campaigns](https://defendcampaigns.org/) - Non-profit that offers cybersecurity training, resources, and products at low-to-no cost to Federal campaigns.
-
-- [1Password For Democracy](https://1password.com/for-democracy/) - Cross-platform password manager for teams, free for political organizations.
-
 ## Fundraising
 
-### Donations
+- [Numero](https://numero.ai/) - Fully-integrated donor database and call-time tool. Streamlines call-time operations with donor contact enrichment, generated asks, one-click follow ups, and integration contribution forms.
 
 - [democracyengine](https://democracyengine.com/) - PCI-compliant payment processor for political donations, charities, and non-profits. Offers credit card and e-check processing.
 
 - [FundraiseUp](https://fundraiseup.com/) - Donation platform with page-building features similar to ActBlue.
+
+### Media Creation
+
+- [Bannerify for Figma](https://www.figma.com/community/plugin/796124491692147799) - Generates HTML5 banner packages from Figma designs. Includes basic animation, hover states, lottie files, generating backup images, generating GIF/video versions, and injecting clickTags for major DSPs.
+
+- [Creatopy](https://www.creatopy.com/) - Canva but for banner ads. Has a large repository of templates and includes some useful widgets such as audio, YouTube embeds, and countdowns.
+
+- [HTML5toGIF](https://html5animationtogif.com/) - Web service to convert HTML5, SVG, and Lottie to GIF/Video. Absent generating video locally from FFmpeg, this tool produces the highest quality exports of all the tools I've used. Excellent for converting HTML5 to video for Facebook ads.
+
+## Media
+
+### Press and PR
+
+- [Cision](https://www.cision.com/) - Media monitoring and relationship management (MRM) platform. Maintains database of traditional media and social influencer contacts and includes integrated pitching tools.
 
 ## Organizing
 
@@ -146,7 +110,47 @@ This is a (growing) curated collection of high-quality platforms, tools and reso
 
 - [Empower Project](https://web.empowerproject.us/empower-app/) - Suite of relationship organizing tools that is free for 501(c)(3) and 501(c)(4) organizations. Integrations natively with NGP VAN/EveryAction and offers a robust API for importing and exporting data.
 
-## Open Source Tools and Resources
+## Security
+
+- [Defending Digital Campaigns](https://defendcampaigns.org/) - Non-profit that offers cybersecurity training, resources, and products at low-to-no cost to Federal campaigns.
+
+- [1Password For Democracy](https://1password.com/for-democracy/) - Cross-platform password manager for teams, free for political organizations.
+
+### Social Media
+
+- [Gather Voices](https://fundraiseup.com/) - Supporter testimonial platform that integrates recording, editing, and distribution.
+
+## Texting
+
+### Broadcast SMS
+
+- [Mobile Commons](https://uplandsoftware.com/mobile-commons/) - Broadcast SMS tool used by many non-profits, that has interesting features like polling locators and surveys.
+
+- [Strive Messaging](https://www.strivemessaging.org/) - Broadcast SMS platform with automation, semantic interpretation, and sentiment analysis tools.
+
+- [DaisyChain](https://www.daisychain.app/) - Broadcast texting tool with powerful automation features and integrations with many major advocacy tools.
+
+### Peer-to-Peer SMS
+
+- [Hustle](https://hustle.com/) - The original P2P texting tool. Also offers broadcast texting, video messaging, and a dialer product. Integrated into the VAN.
+
+- [RumbleUp](https://rumbleup.com/pricing) - P2P texting platform with strong list cleaning features.
+
+- [ThruText](https://www.getthru.io/p2p-thrutext) - Hustle's little brother. No minimums or contracts, credits are bought in blocks.
+
+- [OutreachCircle](outreachcircle.com) - Relational organizing platform with inexpensive P2P SMS. Offers NGPVAN integration.
+
+- [Civitech TextOut](https://civitech.io/products/textout/) - Texting platform that offers both managed and unmanaged texting.
+
+### Website Builders
+
+- [RUN!](https://www.designedtorun.com/) - Candidate website builder for Dems and Progressive candidates that offers sliding scale pricing.
+
+- [PoliEngine](https://poliengine.com/) - Candidate website builder with fairly run of the mill templates but also very affordable pricing.
+
+- [Campaign Partner](https://www.campaignpartner.com/) - Website builder that's been around for a while. Features include online donations, event management, and a basic CRM.
+
+# Open Source Tools and Resources
 
 ## Data Management
 
@@ -162,12 +166,6 @@ This is a (growing) curated collection of high-quality platforms, tools and reso
 - [FEC Bulk Data](https://www.fec.gov/data/browse-data/?tab=bulk-data) - Bulk data downloads for Federal committees.
 -
 
-## Geospatial
-
-- [New York State Legislative Task Force on Demographic Research and Reapportionment](https://latfor.state.ny.us/data/) - NYS legislative boundaries for CD/SD/AD, available in shapefiles.
-
-- [NYS Street Address Mapping (SAM)](http://gis.ny.gov/streets/) - NYS GIS geocoding service. Typically an exact match for the state voter file.
-
 ## Email
 
 - [MJML](https://mjml.io/) - Responsive email framework that takes the pain out of building good-looking, cross-platform emails. Can be used with a native editor, as a nodejs module, or free-to-use API. Very easy to build the classic 1-col fundraising email layout.
@@ -177,3 +175,9 @@ This is a (growing) curated collection of high-quality platforms, tools and reso
 - [Archive of Political Emails](https://politicalemails.org/) - Email archive that collects email from candidates, elected officials, PACs, NGOs, etc.
 
 - [SimilarMail](https://www.similarmail.com/) - General email archive with a lot of political content.
+
+## Geospatial
+
+- [New York State Legislative Task Force on Demographic Research and Reapportionment](https://latfor.state.ny.us/data/) - NYS legislative boundaries for CD/SD/AD, available in shapefiles.
+
+- [NYS Street Address Mapping (SAM)](http://gis.ny.gov/streets/) - NYS GIS geocoding service. Typically an exact match for the state voter file.
