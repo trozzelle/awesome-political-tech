@@ -1,7 +1,5 @@
 # Awesome Political Tech
 
-At the same time that getting good people into office has never been more important, running an effective political campaign has never been more complex.
-
 Effective campaigning in 2024 means bringing together a wide array of tools to bridge the physical reality of running a field program and digital demands of brand awareness, fundraising, and mass communication, often wrangling data that is both overwhelming and quickly-outdated. Political campaigns are almost always understaffed, underfunded, and out of time.
 
 This is a (growing) curated collection of high-quality platforms, tools and resources for running political or advocacy campaigns.
