@@ -8,21 +8,21 @@ Awesome Political Tech 📢
 
 This is a (growing) curated collection of high-quality platforms, tools and resources for running political or advocacy campaigns.</p>
 
-## Advertising
+### Advertising
 
-### Platforms
+#### Platforms
 
 - [Democratic Ads](https://www.democraticads.com/) - Self-service ad platform offering voter-targeting advertising with microtargeting in all 50 state. Integrates natively with NGPVAN.
 
-### Ad Respositories
+#### Ad Respositories
 
 - [Facebook Ad Library](https://www.facebook.com/ads/library/) - Facebook's repository of all ads. Great to use as a resource for inspiration and to monitor opposition messaging/spend.
 - [Google Advertising Transparency Report](https://adstransparency.google.com/) - Google's repository of all political advertising published through the Google Ad Network, including YouTube ads.
 - [Snapchat Political Ads Library](https://snap.com/en-US/political-ads) - Snapchat's repository of political ads. Downloads as a CSV with links to the creative.
 
-### Tools
+#### Tools
 
-- [Facebook Political Ads Collector](https://github.com/CybersecurityForDemocracy/FacebookApiPolAdsCollector) - Python collector for the FB Ad Library API
+- [Facebook Political Ads Collector](https://github.com/CybersecurityForDemocracy/FacebookApiPolAdsCollector) - Python collector for the FB Ad Library API.
 
 ### Call Tools/Auto Dialers
 
@@ -36,7 +36,7 @@ This is a (growing) curated collection of high-quality platforms, tools and reso
 - [Ecanvasser](https://www.ecanvasser.com/) - Streamlined tool for turf cutting, walk list generation, and field reporting. Has native integrations with NationBuilder, CallHub, Salesforce, and L2 Data.
 - [Trailblazer](https://www.trailblz.com/political-campaign-software) - Platform with canvassing, mailing, and phone banking tools. Offers mapping and turf cutting with geocoding for an additional fee.
 
-## CRM/DRM
+### CRM/DRM
 
 - [CiviCRM](https://civicrm.org/) - Self-hosted, open-source CRM for donor and volunteer management. Alternative (with a bunch of elbow grease) to NGP. Large ecosystem of extensions and mature, well-documented REST api. Native integration with Wordpress, Drupal, and Joomla.
 - [Action Network](https://actionnetwork.org/) - Low-cost CRM/DRM platform with organizing tools and bulk email/SMS. A good subset of NGP's tools at a fraction of the cost. Priced by emails/month.
@@ -46,9 +46,9 @@ This is a (growing) curated collection of high-quality platforms, tools and reso
 - [NationBuilder](https://nationbuilder.com/) - Another popular CRM that has both advocacy and fundraising tools. Much cheaper than NGP/EveryAction.
 - [VolunteerHub](https://volunteerhub.com/solutions/political-campaigns) - CRM geared towards recruiting, managing, and scheduling your volunteer base.
 
-## Data
+### Data
 
-### Data Providers
+#### Data Providers
 
 - [L2](https://www.l2-data.com/) - Data broker that has been around for a long time. Offers voter, constituent, and consumer data sets.
 - [TargetSmart](https://targetsmart.com/data-solutions/) - Provides high-quality voter, constituent, and donor data, as well as turnout and issue-support models.
@@ -57,16 +57,16 @@ This is a (growing) curated collection of high-quality platforms, tools and reso
 - [Catalist](https://catalist.us/) - Enriched national voter file with matching tools. Data is improved by sharing back program and response data from clients. Also offers many different behavior, demographic, and issue-preference models.
 - [Grassroots Analytics](https://www.grassrootsanalytics.com/) - Data and tools for progressive campaigns and non-profits. Offers list rentals for some use-cases.
 
-### Analytics
+#### Analytics
 
 - [Civis](https://www.civisanalytics.com/) - Very powerful data analytics platform. Allows you to create complex automated data pipelines and offers language-agnostic scripting, preconfigured Docker environments, GitHub integration, and connectors for dashboards like Tableau and Google Data Studio, and data warehouses like AWS Redshift and GCP BigQuery.
 - [Civitech RunningMate](https://civitech.io/products/running-mate/) - Data visualization software for constituent and supporter data.
 
-## Email
+### Email
 
 - [Stripo.email](https://stripo.email/) - Hybrid WISYWIG/code editor for email production. Lots of quality-of-life features, like device preview, asset hosting, and export to many different ESPs. The editor itself feels kind of clunky/limited but code can be edited simultaneously.
 
-## Fundraising
+### Fundraising
 
 - [Numero](https://numero.ai/) - Fully-integrated donor database and call-time tool. Streamlines call-time operations with donor contact enrichment, generated asks, one-click follow ups, and integration contribution forms.
 - [democracyengine](https://democracyengine.com/) - PCI-compliant payment processor for political donations, charities, and non-profits. Offers credit card and e-check processing.
@@ -78,18 +78,18 @@ This is a (growing) curated collection of high-quality platforms, tools and reso
 - [Creatopy](https://www.creatopy.com/) - Canva but for banner ads. Has a large repository of templates and includes some useful widgets such as audio, YouTube embeds, and countdowns.
 - [HTML5toGIF](https://html5animationtogif.com/) - Web service to convert HTML5, SVG, and Lottie to GIF/Video. Absent generating video locally from FFmpeg, this tool produces the highest quality exports of all the tools I've used. Excellent for converting HTML5 to video for Facebook ads.
 
-## Media
+### Media
 
-### Press and PR
+#### Press and PR
 
 - [Cision](https://www.cision.com/) - Media monitoring and relationship management (MRM) platform. Maintains database of traditional media and social influencer contacts and includes integrated pitching tools.
 
-## Organizing
+### Organizing
 
 - [Mobilize](https://mobilize.us/) - Widely-used and powerful event management tool. Part of the Bonterra family.
 - [Empower Project](https://web.empowerproject.us/empower-app/) - Suite of relationship organizing tools that is free for 501(c)(3) and 501(c)(4) organizations. Integrations natively with NGP VAN/EveryAction and offers a robust API for importing and exporting data.
 
-## Security
+### Security
 
 - [Defending Digital Campaigns](https://defendcampaigns.org/) - Non-profit that offers cybersecurity training, resources, and products at low-to-no cost to Federal campaigns.
 - [1Password For Democracy](https://1password.com/for-democracy/) - Cross-platform password manager for teams, free for political organizations.
@@ -98,15 +98,15 @@ This is a (growing) curated collection of high-quality platforms, tools and reso
 
 - [Gather Voices](https://www.gathervoices.co/) - Supporter testimonial platform that integrates recording, editing, and distribution.
 
-## Texting
+### Texting
 
-### Broadcast SMS
+#### Broadcast SMS
 
 - [Mobile Commons](https://uplandsoftware.com/mobile-commons/) - Broadcast SMS tool used by many non-profits, that has interesting features like polling locators and surveys.
 - [Strive Messaging](https://www.strivemessaging.org/) - Broadcast SMS platform with automation, semantic interpretation, and sentiment analysis tools.
 - [DaisyChain](https://www.daisychain.app/) - Broadcast texting tool with powerful automation features and integrations with many major advocacy tools.
 
-### Peer-to-Peer SMS
+#### Peer-to-Peer SMS
 
 - [Hustle](https://hustle.com/) - The original P2P texting tool. Also offers broadcast texting, video messaging, and a dialer product. Integrated into the VAN.
 - [RumbleUp](https://rumbleup.com/pricing) - P2P texting platform with strong list cleaning features.
