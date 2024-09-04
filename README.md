@@ -8,6 +8,41 @@ Awesome Political Tech 📢
 
 This is a (growing) curated collection of high-quality platforms, tools and resources for running political or advocacy campaigns.</p>
 
+## Table of Contents
+
+<!-- TOC start -->
+
+- [Advertising](#advertising)
+  - [Platforms](#platforms)
+  - [Ad Respositories](#ad-respositories)
+  - [Tools](#tools)
+- [Call Tools/Auto Dialers](#call-toolsauto-dialers)
+- [Canvassing](#canvassing)
+- [CRM/DRM](#crmdrm)
+- [Data](#data)
+  - [Data Providers](#data-providers)
+  - [Analytics](#analytics)
+- [Email](#email)
+- [Fundraising](#fundraising)
+- [Media Creation](#media-creation)
+- [Media](#media)
+  - [Press and PR](#press-and-pr)
+- [Organizing](#organizing)
+- [Security](#security)
+- [Social Media](#social-media)
+- [Texting](#texting)
+  - [Broadcast SMS](#broadcast-sms)
+  - [Peer-to-Peer SMS](#peer-to-peer-sms)
+- [Website Builders](#website-builders)
+
+* [Open Source Tools and Resources](#open-source-tools-and-resources)
+  - [Data Management](#data-management)
+  - [Datasets](#datasets)
+  - [Email](#email-1)
+  - [Geospatial](#geospatial)
+
+<!-- TOC end -->
+
 ### Advertising
 
 #### Platforms
