@@ -8,7 +8,7 @@ Awesome Political Tech 📢
 
 This is a (growing) curated collection of high-quality platforms, tools and resources for running political or advocacy campaigns.</p>
 
-## Table of Contents
+## Contents
 
 <!-- TOC start -->
 
