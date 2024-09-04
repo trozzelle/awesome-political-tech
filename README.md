@@ -34,8 +34,7 @@ This is a (growing) curated collection of high-quality platforms, tools and reso
   - [Broadcast SMS](#broadcast-sms)
   - [Peer-to-Peer SMS](#peer-to-peer-sms)
 - [Website Builders](#website-builders)
-
-* [Open Source Tools and Resources](#open-source-tools-and-resources)
+- [Open Source Tools and Resources](#open-source-tools-and-resources)
   - [Data Management](#data-management)
   - [Datasets](#datasets)
   - [Email](#email-1)
