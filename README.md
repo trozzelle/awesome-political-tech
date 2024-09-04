@@ -8,8 +8,6 @@ Awesome Political Tech 📢
 
 This is a (growing) curated collection of high-quality platforms, tools and resources for running political or advocacy campaigns.</p>
 
-# Platforms
-
 ## Advertising
 
 ### Platforms
@@ -28,15 +26,15 @@ This is a (growing) curated collection of high-quality platforms, tools and reso
 
 ### Call Tools/Auto Dialers
 
-- [CallHub](https://callhub.io/) Powerful calling platform with auto/predictive dialers, patch through calling, and live call monitoring. Also offers broadcast/p2p texting and email tools.
-- [PhoneBurner](https://www.phoneburner.com/) Another powerful calling platform with auto/predictive dialers, automation tools, and many integrations.
-- [ThruTalk](https://www.getthru.io/thrutalk-dialer) Fast caller that offers strong integration with ThruTalk.
+- [CallHub](https://callhub.io/) - Powerful calling platform with auto/predictive dialers, patch through calling, and live call monitoring. Also offers broadcast/p2p texting and email tools.
+- [PhoneBurner](https://www.phoneburner.com/) - Another powerful calling platform with auto/predictive dialers, automation tools, and many integrations.
+- [ThruTalk](https://www.getthru.io/thrutalk-dialer) - Fast caller that offers strong integration with ThruTalk.
 - [callTime](https://www.calltime.ai/) - Fundraising-focused call tool with ActBlue and NGP integration. Enriches donor data and uses machine learning to generate donor scores and ask amounts.
 
 ### Canvassing
 
-- [Ecanvasser](https://www.ecanvasser.com/) Streamlined tool for turf cutting, walk list generation, and field reporting. Has native integrations with NationBuilder, CallHub, Salesforce, and L2 Data.
-- [Trailblazer](https://www.trailblz.com/political-campaign-software) Platform with canvassing, mailing, and phone banking tools. Offers mapping and turf cutting with geocoding for an additional fee.
+- [Ecanvasser](https://www.ecanvasser.com/) - Streamlined tool for turf cutting, walk list generation, and field reporting. Has native integrations with NationBuilder, CallHub, Salesforce, and L2 Data.
+- [Trailblazer](https://www.trailblz.com/political-campaign-software) - Platform with canvassing, mailing, and phone banking tools. Offers mapping and turf cutting with geocoding for an additional fee.
 
 ## CRM/DRM
 
@@ -54,7 +52,7 @@ This is a (growing) curated collection of high-quality platforms, tools and reso
 
 - [L2](https://www.l2-data.com/) - Data broker that has been around for a long time. Offers voter, constituent, and consumer data sets.
 - [TargetSmart](https://targetsmart.com/data-solutions/) - Provides high-quality voter, constituent, and donor data, as well as turnout and issue-support models.
-- [Political Data Intelligence](https://www.civisanalytics.com/) - Broker with a wide range of high-quality political, electoral, and advocacy data sets. Also offers polling.
+- [Political Data Intelligence](https://politicaldata.com/) - Broker with a wide range of high-quality political, electoral, and advocacy data sets. Also offers polling.
 - [Accurate Append](https://accurateappend.com/) - Offers political data lists as well as data enrichment, lead validation, and contact profiling.
 - [Catalist](https://catalist.us/) - Enriched national voter file with matching tools. Data is improved by sharing back program and response data from clients. Also offers many different behavior, demographic, and issue-preference models.
 - [Grassroots Analytics](https://www.grassrootsanalytics.com/) - Data and tools for progressive campaigns and non-profits. Offers list rentals for some use-cases.
@@ -88,7 +86,7 @@ This is a (growing) curated collection of high-quality platforms, tools and reso
 
 ## Organizing
 
-- [Mobilize](mobilize.us) - Widely-used and powerful event management tool. Part of the Bonterra family.
+- [Mobilize](https://mobilize.us/) - Widely-used and powerful event management tool. Part of the Bonterra family.
 - [Empower Project](https://web.empowerproject.us/empower-app/) - Suite of relationship organizing tools that is free for 501(c)(3) and 501(c)(4) organizations. Integrations natively with NGP VAN/EveryAction and offers a robust API for importing and exporting data.
 
 ## Security
@@ -98,7 +96,7 @@ This is a (growing) curated collection of high-quality platforms, tools and reso
 
 ### Social Media
 
-- [Gather Voices](https://fundraiseup.com/) - Supporter testimonial platform that integrates recording, editing, and distribution.
+- [Gather Voices](https://www.gathervoices.co/) - Supporter testimonial platform that integrates recording, editing, and distribution.
 
 ## Texting
 
@@ -113,7 +111,7 @@ This is a (growing) curated collection of high-quality platforms, tools and reso
 - [Hustle](https://hustle.com/) - The original P2P texting tool. Also offers broadcast texting, video messaging, and a dialer product. Integrated into the VAN.
 - [RumbleUp](https://rumbleup.com/pricing) - P2P texting platform with strong list cleaning features.
 - [ThruText](https://www.getthru.io/p2p-thrutext) - Hustle's little brother. No minimums or contracts, credits are bought in blocks.
-- [OutreachCircle](outreachcircle.com) - Relational organizing platform with inexpensive P2P SMS. Offers NGPVAN integration.
+- [OutreachCircle](https://outreachcircle.com) - Relational organizing platform with inexpensive P2P SMS. Offers NGPVAN integration.
 - [Civitech TextOut](https://civitech.io/products/textout/) - Texting platform that offers both managed and unmanaged texting.
 
 ### Website Builders
@@ -122,28 +120,28 @@ This is a (growing) curated collection of high-quality platforms, tools and reso
 - [PoliEngine](https://poliengine.com/) - Candidate website builder with fairly run of the mill templates but also very affordable pricing.
 - [Campaign Partner](https://www.campaignpartner.com/) - Website builder that's been around for a while. Features include online donations, event management, and a basic CRM.
 
-# Open Source Tools and Resources
+## Open Source Tools and Resources
 
-## Data Management
+### Data Management
 
 - [move-coop/Parsons](https://github.com/move-coop/parsons) - Fantastic python utility library that makes it easy to interact with the APIs of many common campaign tools, like NGPVAN, Mobilize, and Hustle. Connectors abstract Requests and Parsons Table wraps petl with a bunch of quality-of-life methods for getting data in and out of various formats.
 - [ActBlue Connector for AirByte](https://github.com/community-tech-alliance/airbyte-source-actblue)
 - [dedupeio](https://github.com/dedupeio/dedupe) - Python library that uses machine learning to perform fuzzy matching, deduplication, and record-linking.
 
-## Datasets
+### Datasets
 
 - [Open States Bulk Data](https://openstates.org/data/) - State legislature data for upper and lower chambers in each state. Has data on legislators, bills, and votes. Bulk data and API available.
 - [FEC Bulk Data](https://www.fec.gov/data/browse-data/?tab=bulk-data) - Bulk data downloads for Federal committees.
 -
 
-## Email
+### Email
 
-- [MJML](https://mjml.io/) - Responsive email framework that takes the pain out of building good-looking, cross-platform emails. Can be used with a native editor, as a nodejs module, or free-to-use API. Very easy to build the classic 1-col fundraising email layout.
-- [Can I Email...?](https://www.caniemail.com/) - HTML/CSS feature reference for compatability and client support. Important to know that 60% of your recipients won't see your slick linear-gradient header, so be sure to set a fallback.
+- [MJML](https://mjml.io/) - Responsive email framework that takes the pain out of building good-looking, cross-platform emails. Can be used with a native editor, as a Node.js module, or free-to-use API. Very easy to build the classic 1-col fundraising email layout.
+- [Can I Email?](https://www.caniemail.com/) - HTML/CSS feature reference for compatability and client support. Important to know that 60% of your recipients won't see your slick linear-gradient header, so be sure to set a fallback.
 - [Archive of Political Emails](https://politicalemails.org/) - Email archive that collects email from candidates, elected officials, PACs, NGOs, etc.
 - [SimilarMail](https://www.similarmail.com/) - General email archive with a lot of political content.
 
-## Geospatial
+### Geospatial
 
 - [New York State Legislative Task Force on Demographic Research and Reapportionment](https://latfor.state.ny.us/data/) - NYS legislative boundaries for CD/SD/AD, available in shapefiles.
 - [NYS Street Address Mapping (SAM)](http://gis.ny.gov/streets/) - NYS GIS geocoding service. Typically an exact match for the state voter file.
