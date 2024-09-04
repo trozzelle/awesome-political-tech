@@ -57,6 +57,7 @@ This is a (growing) curated collection of high-quality platforms, tools and reso
 - [Political Data Intelligence](https://www.civisanalytics.com/) - Broker with a wide range of high-quality political, electoral, and advocacy data sets. Also offers polling.
 - [Accurate Append](https://accurateappend.com/) - Offers political data lists as well as data enrichment, lead validation, and contact profiling.
 - [Catalist](https://catalist.us/) - Enriched national voter file with matching tools. Data is improved by sharing back program and response data from clients. Also offers many different behavior, demographic, and issue-preference models.
+- [Grassroots Analytics](https://www.grassrootsanalytics.com/) - Data and tools for progressive campaigns and non-profits. Offers list rentals for some use-cases.
 
 ### Analytics
 
