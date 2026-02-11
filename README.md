@@ -166,7 +166,7 @@ This is a (growing) curated collection of high-quality platforms, tools and reso
 
 - [Open States Bulk Data](https://openstates.org/data/) - State legislature data for upper and lower chambers in each state. Has data on legislators, bills, and votes. Bulk data and API available.
 - [FEC Bulk Data](https://www.fec.gov/data/browse-data/?tab=bulk-data) - Bulk data downloads for Federal committees.
--
+- [Absurdity Index](https://absurdityindex.org/) - Scores real U.S. federal legislation on a 1-10 absurdity scale and publishes satirical common-sense alternative bills. Public JSON API available at `/api/bills.json`.
 
 ### Email
 
