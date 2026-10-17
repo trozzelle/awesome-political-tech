@@ -22,6 +22,7 @@ This is a (growing) curated collection of high-quality platforms, tools and reso
 - [Data](#data)
   - [Data Providers](#data-providers)
   - [Analytics](#analytics)
+  - [Research](#research)
 - [Email](#email)
 - [Fundraising](#fundraising)
 - [Media Creation](#media-creation)
@@ -95,6 +96,10 @@ This is a (growing) curated collection of high-quality platforms, tools and reso
 
 - [Civis](https://www.civisanalytics.com/) - Very powerful data analytics platform. Allows you to create complex automated data pipelines and offers language-agnostic scripting, preconfigured Docker environments, GitHub integration, and connectors for dashboards like Tableau and Google Data Studio, and data warehouses like AWS Redshift and GCP BigQuery.
 - [Civitech RunningMate](https://civitech.io/products/running-mate/) - Data visualization software for constituent and supporter data.
+
+#### Research
+
+- [OppIntell](https://oppintell.com) - Nonpartisan opposition research software. Organizes public records (FEC and state filings, votes, court records, disclosures, statements) on 24,000+ U.S. candidates into profiles where every claim links to its source. Public profiles are free to browse.
 
 ### Email
 
