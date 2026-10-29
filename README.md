@@ -100,6 +100,7 @@ This is a (growing) curated collection of high-quality platforms, tools and reso
 #### Research
 
 - [OppIntell](https://oppintell.com) - Nonpartisan opposition research software. Organizes public records (FEC and state filings, votes, court records, disclosures, statements) on 24,000+ U.S. candidates into profiles where every claim links to its source. Public profiles are free to browse.
+- [Insider Express (Canada)](https://insiderexpress.ca) - Organizes Canadian public filings into cross-linked profiles of politicians, insiders and companies: SEDI insider trades, MP and senator disclosed holdings, federal lobbying registrations and communications, political donations, and federal contracts and grants. Free to read; a free account is required after a few pages.
 
 ### Email
 
