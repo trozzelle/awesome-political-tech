@@ -100,6 +100,7 @@ This is a (growing) curated collection of high-quality platforms, tools and reso
 #### Research
 
 - [OppIntell](https://oppintell.com) - Nonpartisan opposition research software. Organizes public records (FEC and state filings, votes, court records, disclosures, statements) on 24,000+ U.S. candidates into profiles where every claim links to its source. Public profiles are free to browse.
+- [Insider Express (US)](https://disclosurehawk.com) - Organizes public filings on members of Congress, executive-branch officials and companies into cross-linked profiles: STOCK Act trades and financial disclosures, OGE 278e reports, SEC insider and 13F filings, LDA lobbying reports, FEC contributions and USAspending awards. Free to read; a free account is required after a few pages.
 
 ### Email
 
