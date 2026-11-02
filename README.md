@@ -58,6 +58,7 @@ This is a (growing) curated collection of high-quality platforms, tools and reso
 #### Tools
 
 - [Facebook Political Ads Collector](https://github.com/CybersecurityForDemocracy/FacebookApiPolAdsCollector) - Python collector for the FB Ad Library API.
+- [LurkAPI](https://lurkapi.com) - API that searches Meta's Ad Library and Google's Ads Transparency Center (plus LinkedIn's and TikTok's ad libraries) by keyword or advertiser and returns each ad as JSON. Political ads include the "Paid for by" name and spend and impression ranges. Paid per call, with free credits to start.
 
 ### Call Tools/Auto Dialers
 
